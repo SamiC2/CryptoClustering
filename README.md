@@ -10,6 +10,8 @@ I also enjoyed completing the Principal Component Analysis to see how much varia
 
 Each component had different features that influenced them the most. 
 
+**--TABLE 1: Principal Component Feature Analysis --**
+
 | Feature | PCA1 | PCA2 | PCA3 |
 | ------- | ---- | ---- | ---- |
 | price_change_percentage_24h | -0.416728 | 0.358162 | -0.218795 |
